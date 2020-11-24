@@ -12,6 +12,8 @@ through conversation.
 
 ## Demo ##
 
+![](https://github.com/siwei6525/AWS_chat_bot/blob/master/demo.png)
+
 User: Hello
 
 Bot: Hi there, how can I help?
