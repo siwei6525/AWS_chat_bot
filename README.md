@@ -24,7 +24,7 @@ User: Manhattan
 
 Bot: Got it, Manhattan. What cuisine would you like to try?
 
-User: Japanese
+User: Chinese
 
 Bot: Ok, how many people are in your party?
 
