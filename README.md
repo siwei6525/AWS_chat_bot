@@ -38,9 +38,9 @@ Bot: What time?
 
 User: 7 pm, please
 
-Bot: Great. Lastly, I need your phone number so I can send you my findings.
+Bot: Great! Lastly, I need your phone number so I can send you my findings.(format: +1 xxxxxxxxx)
 
-User: 123-456-7890
+User: +1 1234567890
 
 Bot: You’re all set. Expect my suggestions shortly! Have a good day.
 
