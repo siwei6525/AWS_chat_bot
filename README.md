@@ -8,7 +8,7 @@ getting disrupted at the moment by Natural Language Processing-powered applicati
 Implement a serverless, microservice-driven web
 application. Specifically, build a Dining Concierge chatbot that sends user restaurant suggestions given a set of preferences that  provide the chatbot with
 through conversation.
-
+Please visit: https://chat-bot-east1.s3.amazonaws.com/chat.html
 
 ## Demo ##
 
