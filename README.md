@@ -15,6 +15,13 @@ Please visit: https://chat-bot-east1.s3.amazonaws.com/chat.html
 
 ![](https://github.com/siwei6525/AWS_chat_bot/blob/master/demo.png)
 
+
+## Architecture Diagram ##
+
+![](https://github.com/siwei6525/AWS_chat_bot/blob/master/demo.png)
+
+
+
 User: Hello
 
 Bot: Hi there, how can I help?
